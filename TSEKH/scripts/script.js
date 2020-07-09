@@ -38,6 +38,9 @@ bnt.on("click",
     show_dropdown
 );
 
+$(function(){
+    $("#phone").mask("+7 (999) 999-9999");
+})
 
 
 
