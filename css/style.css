@@ -139,7 +139,7 @@ body {
 }
 
 .header__logo {
-  background: url(/img/header-img/Group-Copy.svg) no-repeat;
+  background: url(../img/header-img/Group-Copy.svg) no-repeat;
   width: 135px;
   height: 43px;
 }
@@ -293,7 +293,7 @@ body {
 }
 
 .section-project__order {
-  background: url(/img/section-project/Mask-Group.svg) no-repeat;
+  background: url(../img/section-project/Mask-Group.svg) no-repeat;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -306,7 +306,7 @@ body {
 }
 
 .section-project__flex:last-child {
-  background: url(/img/section-project/shut.png) center/cover no-repeat;
+  background: url(../img/section-project/shut.png) center/cover no-repeat;
   width: 805px;
   height: 655px;
   margin-top: 65px;
@@ -417,7 +417,7 @@ body {
 }
 
 .section-dev {
-  background: url(/img/section-dev/Группа-1.svg) center 110% no-repeat;
+  background: url(../img/section-dev/Группа-1.svg) center 110% no-repeat;
   background-color: #3454F5;
 }
 
@@ -430,7 +430,7 @@ body {
 }
 
 .section-dev__img {
-  background: url(/img/section-dev/Group.svg) center no-repeat;
+  background: url(../img/section-dev/Group.svg) center no-repeat;
   margin: 0 auto;
   width: 210px;
   height: 68px;
@@ -535,14 +535,14 @@ body {
 }
 
 .section-examples__list-items span {
-  background: url(/img/section-examples/plus.svg) center no-repeat;
+  background: url(../img/section-examples/plus.svg) center no-repeat;
   margin: 13px 15px 0 0;
   width: 7px;
   height: 7px;
 }
 
 .section-examples__list-items:last-child span {
-  background: url(/img/section-examples/minus.svg) center no-repeat;
+  background: url(../img/section-examples/minus.svg) center no-repeat;
 }
 
 .section-examples__list-items:last-child {
@@ -564,7 +564,7 @@ body {
 }
 
 .section-examples__order-img {
-  background: url(/img/section-examples/Group28.png) center no-repeat;
+  background: url(../img/section-examples/Group28.png) center no-repeat;
   -webkit-box-flex: 0;
       -ms-flex: 0 0 380px;
           flex: 0 0 380px;
@@ -830,7 +830,7 @@ body {
 }
 
 .section-case__shadow-arrow {
-  background: url(/img/section-case/arrow-right.svg) center no-repeat;
+  background: url(../img/section-case/arrow-right.svg) center no-repeat;
   margin-bottom: 16px;
   display: block;
   width: 48px;
@@ -1114,7 +1114,7 @@ body {
 }
 
 .footer__container-title {
-  background: url(/img/section-dev/Group.svg) center/cover no-repeat;
+  background: url(../img/section-dev/Group.svg) center/cover no-repeat;
   margin-bottom: 43px;
   width: 131px;
   height: 42px;
@@ -1143,30 +1143,30 @@ body {
 }
 
 .footer__flex-facebook {
-  background: url(/img/footer/facebook-1.svg) center/cover no-repeat;
+  background: url(../img/footer/facebook-1.svg) center/cover no-repeat;
 }
 
 .footer__flex-instagram {
-  background: url(/img/footer/inst.svg) center/cover no-repeat;
+  background: url(../img/footer/inst.svg) center/cover no-repeat;
 }
 
 .footer__flex-ge {
-  background: url(/img/footer/Group_3.svg) center/cover no-repeat;
+  background: url(../img/footer/Group_3.svg) center/cover no-repeat;
 }
 
 .footer__flex-logo_mail {
-  background: url(/img/footer/mail-1.svg) center/cover no-repeat;
+  background: url(../img/footer/mail-1.svg) center/cover no-repeat;
   margin-right: 18px;
   width: 16px;
   height: 13px;
 }
 
 .footer__flex-logo_mail {
-  background: url(/img/footer/mail-1.svg) center/cover no-repeat;
+  background: url(../img/footer/mail-1.svg) center/cover no-repeat;
 }
 
 .footer__flex-logo_phone {
-  background: url(/img/footer/phone-1.svg) center/contain no-repeat;
+  background: url(../img/footer/phone-1.svg) center/contain no-repeat;
 }
 
 .footer__flex .indent {
@@ -1937,6 +1937,6 @@ body {
   }
 }
 
-.webp .section-project__flex:last-child{ background: url(/img/section-project/shut.webp) center/cover no-repeat; }
+.webp .section-project__flex:last-child{ background: url(../img/section-project/shut.webp) center/cover no-repeat; }
 
-.webp .section-examples__order-img{ background: url(/img/section-examples/Group28.webp) center no-repeat; }
+.webp .section-examples__order-img{ background: url(../img/section-examples/Group28.webp) center no-repeat; }
